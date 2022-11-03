@@ -71,6 +71,19 @@ git remote add origin url
 git push origin master
 
 
+git revert
+        revert the commit
+git reset
+        reset the code along with the commit id
+git stash
+        if you modified any file (not yet completed)
+        git stash
+        git stash list (optional)
+        git stash apply (once you completed)
+
+
+
+
 
 
 
